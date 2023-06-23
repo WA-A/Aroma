@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing:border-box;
+    overflow: hidden;
+}
+.container{
+   margin: auto; 
+   width: 80%;
+  
+}
+.float-item{
+    float:left;
+}
+.clearfix{
+    clear: both;
+}
+.logo{
+    width:30%;
+}
+.list{
+    width:45%;
+   
+
+}
+a{
+    text-decoration: none;
+}
+.navbar{
+    margin-top: 10px;
+}
+.li{ display: inline;
+    padding: 10px;
+    text-transform: capitalize;
+    color: #333;
+}
+.icon{
+    color: #384aeb;
+    padding-right: 20px;
+    font-size: 20px;
+  
+}
+.button{
+    color: #384aeb;
+    border: 1px solid #384aeb;
+    padding: 10px 10px;
+    text-transform: capitalize;
+    border-radius: 17px;
+}
+.list,.icon{
+    padding-top: 10px;
+}
+.lh{
+    width: 40%;
+}
+.lh img{
+    width: 100%;
+}
+.rh{
+    width: 55%;
+    padding-top: 270px;
+    padding-left: 70px;
+}
+.h1{
+    padding: 18px;
+    text-transform: capitalize;
+  
+}
+.p2{
+    padding-top: 7px;
+    padding-bottom: 10px;
+    color: #333;
+}
+.p1{
+    padding: 3px;
+    font-size: 25px;
+    color: #333;
+}
+.rh .button {
+    color: #384aeb;
+    border: 1px solid #384aeb;
+    margin-top: 20px;
+    padding: 10px 10px;
+    text-transform: capitalize;
+    border-radius: 20px;
+    background-color:#384aeb;
+    color: white;
+}
+.main_proudcts{
+    margin-top: 15px;
+}
+.main_proudcts .float-item{
+    width: 32%;
+    padding-left: 10px;
+}
+.main_proudcts .float-item img{
+    width: 100%;
+}
+.float-item{
+    float:left;
+}
+.trind_prouct{
+    margin-top: 15px;
+    align-items: center;
+}
+.trind_prouct .float-item{
+    padding: 25px;
+    margin-bottom: 30px;
+} 
+blue{
+    color: #384aeb;
+}
+.float-item{
+    float:left;
+}   
